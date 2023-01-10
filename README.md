@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![@redwerkz Astro contributions](https://astro.badg.es/v1/contributor/redwerkz.svg)](https://astro.badg.es/v1/contributor/redwerkz/)
+
 <!--
 **redwerkz/redwerkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
