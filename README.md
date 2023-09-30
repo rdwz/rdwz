@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on [Modus Bio](https://modus.bio/)  
+- 🔭 I’m currently working on [Advanced Astro](https:/advanced-astro.dev)  
 
 ## Badges
 
