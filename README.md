@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on [Advanced Astro](https:/advanced-astro.dev)  
 
+[![My Skills](https://skillicons.dev/icons?i=astro,css,docker,html,js,nodejs,netlify,svg,ts,vercel)](https://skillicons.dev)
+
 ## Badges
 
 [![@rdwz Astro contributions](https://astro.badg.es/v1/contributor/rdwz.svg)](https://astro.badg.es/v1/contributor/rdwz/)
