@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on [Advanced Astro](https:/advanced-astro.dev) and [FreeDomain.Directory](https://freedomain.directory)
+- 🔭 I’m currently working on [Omnes.Nexus](https://omnes.nexus) 🪢
 
 [![My Skills](https://skillicons.dev/icons?i=astro,css,docker,html,js,nodejs,netlify,svg,ts,vercel)](https://skillicons.dev)
 
